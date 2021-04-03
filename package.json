@@ -1,0 +1,14 @@
+{
+    "author": "Sergey Shpadyrev",
+    "bugs": {
+        "url": "https://github.com/una-language/babel-plugin-una-language/issues"
+    },
+    "homepage": "https://github.com/una-language/babel-plugin-una-language#readme",
+    "license": "MIT",
+    "name": "babel-plugin-una-language",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/una-language/babel-plugin-una-language.git"
+    },
+    "version": "1.0.1"
+}
